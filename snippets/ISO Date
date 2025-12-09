@@ -1,0 +1,3 @@
+name: ISO Date
+Snippet: {date format="yyyy-MM-DD"}
+Keyword !date
